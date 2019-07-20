@@ -1,3 +1,3 @@
 # RandInsideGeo
 
-Its about generating random points inside two dimesnional geometery using distribution function.
+It is about generating random points inside two-dimensional geometry using distribution function.
